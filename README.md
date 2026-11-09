@@ -1,4 +1,3 @@
-# IncidentForge[README.md](https://github.com/user-attachments/files/34558558/README.md)
 # IncidentForge
 
 **Incident investigation, evidence management, and response coordination**
